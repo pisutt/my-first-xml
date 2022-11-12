@@ -1,0 +1,27 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<price>$20</price>
+		<kcal>380</kcal>
+	</food>
+		<food>
+		<name>Hotdog</name>
+		<price>$20</price>
+		<kcal>400</kcal>
+	</food>
+	<food>
+		<name>Dimsum</name>
+		<price>$12</price>
+		<kcal>260</kcal>
+	</food>
+	<food>
+		<name>Spaghetti</name>
+		<price>$30</price>
+		<kcal>350</kcal>
+	</food>
+	<food>
+		<name>Mango Rice</name>
+		<price>$30</price>
+		<kcal>500</kcal>
+	</food>
+</menu>
